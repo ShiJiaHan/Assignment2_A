@@ -7,22 +7,22 @@
  */
 public class Calculator
 {
-    double cox2=1;
-    double cox=5;
-    double con=6;
+    double cox2=1;//coefficient of x^2
+    double cox=5; //coefficient of x
+    double con=6;//constant
     
-    int x1st=0;
-    int y1st=0;
-    int x2nd=2;
-    int y2nd=3;
+    int x1st=0;//x coordinnate of the first point
+    int y1st=0;//y coordinnate of the first point
+    int x2nd=2;//x coordinnate of the second point
+    int y2nd=3;//y coordinnate of the second point
     
-    int geo1=3;
-    int georate=2;
-    int geoterm=3;
+    int geo1=3;//first term of geometric sequence
+    int georate=2;//common ratio
+    int geoterm=3;//number of terms
     
-    int ari1=1;
-    int arirate=1;
-    int ariterm=5;
+    int ari1=1;//first term of arithmatic sequence
+    int arirate=1;//common difference
+    int ariterm=5;//number of terms
     
     public double QuadraticFormulaPlus (double a, double b, double c){
         //a is the coefficient of x^2
