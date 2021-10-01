@@ -2,8 +2,8 @@
 /**
  * Write a description of class Assignment2_A here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @Shi Jia Han
+ * @Sept.30
  */
 public class Assignment2_A
 {
