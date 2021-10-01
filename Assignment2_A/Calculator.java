@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class Calculator here.
+ * Assignment2_A
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @Shi Jia Han
+ * @Sept.30
  */
 public class Calculator
 {
